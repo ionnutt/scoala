@@ -1,0 +1,2 @@
+# scoala
+site for school
